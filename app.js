@@ -23,6 +23,7 @@ if(a==0){
 
 }
 console.log("Msg to commit");
+console.log("Msg to commit");
 app.listen(3001, function () {
   console.log('Example app listening on port 3000!');
 });
